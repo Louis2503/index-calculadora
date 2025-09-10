@@ -9,7 +9,7 @@
 <body>
     <div class="container">
         <h1>calculadora de tabuada</h1>
-        <input type="number" id="numero"
+        <input type="number" id="numero" placeholder="Digite um número">
         <button onclick="calcularTabuada()">calcular</button>
         <div id="resultado"></div>
     </div>
