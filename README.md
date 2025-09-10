@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,8 +10,9 @@
     <div class="container">
         <h1>calculadora de tabuada</h1>
         <input type="number" id="numero"
-        <button onclick=""
-        <div id=""
+        <button onclick="calcularTabuada()">calcular</button>
+        <div id="resultado"></div>
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
